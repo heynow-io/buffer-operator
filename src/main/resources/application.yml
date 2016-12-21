@@ -1,0 +1,2 @@
+spring.application.name: buffer-operator
+logging.file:       application.log
