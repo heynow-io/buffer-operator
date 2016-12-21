@@ -7,7 +7,6 @@ hs_err_pid*
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
 application.log*
